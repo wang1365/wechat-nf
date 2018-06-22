@@ -1,0 +1,50 @@
+<view class="weui-panel__bd">
+  <navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="{{pics[0]}}" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">1.育苗栽培: 2018.03.20</view>
+      <view class="weui-media-box__desc">种子品种：无刺水果型小黄瓜种子22-35, 瑞克斯旺种子公司,大棚地点：寿光市文家街道XX村XX户</view>
+    </view>
+  </navigator>
+  <navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="{{pics[1]}}" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">2.种植管理: 2018.03.21-2018.06.16</view>
+      <view class="weui-media-box__desc">高科技温室大棚，全程24小时视频监控，温度湿度自动控制，绿色有机施肥，无农药化管理</view>
+    </view>
+  </navigator>
+  <navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="{{pics[2]}}" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">3.采摘: 2018.06.17</view>
+      <view class="weui-media-box__desc">精心挑选高品质成熟果实采摘。</view>
+    </view>
+  </navigator>
+  <navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="{{pics[3]}}" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">4.包装: 2018.06.17</view>
+      <view class="weui-media-box__desc">当日采摘，当日包装，低温冷藏保鲜。</view>
+    </view>
+  </navigator>
+  <navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="{{pics[4]}}" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">5.物流: 2018.06.17-2018.06.18</view>
+      <view class="weui-media-box__desc">中国最大的蔬菜集散配送中心，全程绿色通道，24小时内高速送达。</view>
+    </view>
+  </navigator>
+  <navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+    <video src='http://ips.ifeng.com/video19.ifeng.com/video09/2018/06/15/32260524-102-9987625-035430.mp4' autoplay='true'></video>
+  </navigator>
+</view>

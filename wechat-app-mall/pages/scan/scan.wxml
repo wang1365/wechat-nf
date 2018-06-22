@@ -1,0 +1,3 @@
+<view>
+<image class="scan" src='../../images/sg/scan.png' mode='aspectFill' bindtap='click'></image>
+</view>

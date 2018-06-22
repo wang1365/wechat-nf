@@ -1,0 +1,10 @@
+<!--pages/order/order.wxml-->
+ 
+  <view class="container">
+    <image class="image" src="../../images/sg/scan3.png" mode="scaleToFill" />
+    <button class="button" type="primary" bindtap='checkGoodsSource'>查看商品溯源</button> 
+  </view>
+  
+   
+ 
+  

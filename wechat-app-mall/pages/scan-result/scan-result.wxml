@@ -1,0 +1,5 @@
+<!--pages/scan-result/scan-result.wxml-->
+<text>pages/scan-result/scan-result.wxml</text>
+<view>
+<image class="scan" src='../../images/sg/scan2.png' mode='aspectFit' bindtap='click'></image>
+</view>
